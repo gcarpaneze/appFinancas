@@ -34,8 +34,8 @@ Pré-requisitos:
 # clonar repositório
 git clone https://github.com/gcarpaneze/appFinancas.git
 
-# entrar na pasta do projeto front end web
-cd app
+# entrar na pasta do projeto
+cd appFinancas
 
 # instalar dependências
 yarn install

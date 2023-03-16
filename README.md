@@ -1,6 +1,6 @@
 # APP Finanças pessoais
 
-![NPM](https://img.shields.io/badge/licence-MIT-<brightgreen>)
+[![NPM](https://img.shields.io/badge/licence-MIT-<brightgreen>)](https://github.com/gcarpaneze/appFinancas/blob/968de2ade5e1290e979fd8d17e4c51434c629edc/LICENCE) 
 
 # Sobre o projeto
 

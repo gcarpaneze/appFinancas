@@ -32,7 +32,7 @@ Pré-requisitos:
 
 ```bash
 # clonar repositório
-git clone https://github.com/devsuperior/sds1-wmazoni
+git clone https://github.com/gcarpaneze/appFinancas.git
 
 # entrar na pasta do projeto front end web
 cd app

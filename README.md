@@ -40,6 +40,9 @@ cd app
 # instalar dependências
 yarn install
 
+# Alterando base URL do Axios:
+Se estiver utilizando o dispositivo físico para rodar o projeto alterar a baseURL de "localhost" para o "Endereço IPv4" para o axios conseguir fazer as requisições para o servidor no arquivo src/services/api.js
+
 # executar o projeto
 
 ## Usando o dispositivo físico ou emulador
